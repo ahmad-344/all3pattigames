@@ -1,29 +1,29 @@
-# 🃏 All3PattiGames
+# All3PattiGames
 
 ### Premium Teen Patti APK Download Platform
 
 ---
 
-## 📖 Overview
+## Overview
 
 **All3PattiGames** is a web platform dedicated to providing information, screenshots, descriptions, and APK download resources for popular Teen Patti and card games. The platform is designed to offer a fast, mobile-friendly, and user-friendly experience.
 
 ---
 
-## 🎯 Features
+## Features
 
-* 📱 APK Download Information
-* 🎮 Teen Patti Game Directory
-* 🖼️ Game Screenshots & Details
-* ⚡ Fast Loading with Vite
-* 📱 Mobile Responsive Design
-* 🔍 Search & Navigation
-* 📈 SEO Optimized Structure
-* 🎨 Modern UI with Tailwind CSS
+* APK Download Information
+* Teen Patti Game Directory
+* Game Screenshots & Details
+* Fast Loading with Vite
+* Mobile Responsive Design
+* Search & Navigation
+* SEO Optimized Structure
+* Modern UI with Tailwind CSS
 
 ---
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 ### Frontend
 
@@ -39,7 +39,7 @@
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
 all3pattigames/
@@ -59,7 +59,7 @@ all3pattigames/
 
 ---
 
-## 💻 Local Development
+## Local Development
 
 ### Requirements
 
@@ -99,7 +99,7 @@ npm run preview
 
 ---
 
-## 🌐 Deployment
+## Deployment
 
 Supported platforms:
 
@@ -110,13 +110,13 @@ Supported platforms:
 
 ---
 
-## ⚖️ Disclaimer
+## Disclaimer
 
 This project is provided for informational purposes only. Users are responsible for complying with applicable local laws and regulations regarding online gaming applications and APK downloads.
 
 ---
 
-# 🔒 LICENSE & LEGAL NOTICE
+# LICENSE & LEGAL NOTICE
 
 ## PROPRIETARY LICENSE — ALL RIGHTS RESERVED
 
@@ -177,7 +177,7 @@ This software is provided "AS IS" without warranty of any kind, express or impli
 
 For licensing or legal inquiries:
 
-Email: [legal@all3pattigames.com](mailto:contactahmad.services@gmail.com)
+Email: [contactahmad.services@gmail.com](mailto:contactahmad.services@gmail.com)
 
 Website: https://all3pattigames.com
 
